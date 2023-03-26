@@ -109,14 +109,14 @@
     background-color: rgb(215, 221, 227);
   }
   @media only screen and (max-width: 600px) {
-    .box {
+    .furniture {
       display: flex;
       flex-direction: column;
       height: 400px;
       width: 250%;
       border-radius: 10px;
     }
-    .thumbnail {
+    .furniture_hero {
       height: 150px;
       width: 250%;
       border-radius: inherit;
